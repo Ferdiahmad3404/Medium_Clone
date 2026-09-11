@@ -1,26 +1,31 @@
-# Trello_Clone
-Project #1 dari Program Pemanasan Ngoding: Trello Clone sederhana buat pelemasan jemari dan restoring programmer spirit. 🚀
-
-# 🚀 Project #1: Trello Clone
+# ✍️ Project #1: Medium Clone (Node.js & React.js)
 
 > **Status:** On Progress ✅ | **Misi:** Pelemasan jemari & penyelamatan logika ngoding.
 
-Project ini resmi dinobatkan sebagai **Project #1** dalam rangkaian **Program Pemanasan Ngoding**. Dibuat bukan karena dunia kekurangan aplikasi *task manager*, melainkan sebagai ajang *restart* otak dan pemanasan jemari yang sudah terlalu lama absen melototi layar hitam berisi teks warna-warni.
+Project ini resmi dinobatkan sebagai **Project #1** dalam rangkaian **Program Pemanasan Ngoding**. Dibuat bukan karena platform blogging dunia kurang keren, melainkan sebagai ajang *restart* otak dan pemanasan jemari yang sudah terlalu lama absen melototi layar hitam berisi teks warna-warni.
+
+Melalui perpaduan **Node.js** di backend dan **React.js** di frontend, project ini jadi sarana "cuci gudang" logika fullstack dan ngumpulin kembali nyawa *programmer* yang sempat lenyap.
 
 ---
 
-## 🛠️ Fitur Utama
+## 🛠️ Tech Stack & Fitur
 
-- 📋 **Papan Kanban ala Kadarnya:** Buat, geser, dan hapus *card* biar kelihatan kayak orang sibuk.
-- 🖐️ **Drag & Drop:** Biar ada sensasi puas pas nggeser tugas dari kolom *To Do* ke *Done*.
-- 🎨 **UI Minimalis:** Nggak neko-neko, yang penting aplikasinya jalan dan mata nggak sakit.
+### 🚀 Tech Stack
+- **Frontend:** React.js
+- **Backend:** Node.js (Express.js)
+
+### ✨ Fitur Utama
+- 📝 **Rich Text Editor / Publishing:** Tulis dan unggah artikel biar kelihatan kayak penulis profesional.
+- 📰 **Article Feed:** Tampilan beranda ala Medium buat baca-baca artikel.
+- ⚛️ **Fullstack Integration:** Koneksi seamless antara API Node.js dan UI React.js.
+- 🎨 **UI Clean & Minimalis:** Terinspirasi dari Medium, nyaman di mata dan fokus ke konten.
 - 🐛 **Bug Eksklusif Project #1:** Anggap saja bonus fitur kejutan untuk menguji kesabaran dan melatih refleks *debugging*.
 
 ---
 
 ## 🗺️ Program Pemanasan Roadmap
 
-- [x] **Project #1: Trello Clone** *(Lolos uji coba, jemari mulai lentur)*
+- [x] **Project #1: Medium Clone (Node.js & React.js)** *(Lolos uji coba, jemari mulai lentur)*
 - [ ] **Project #2:** *(Coming soon, tergantung tingkat kram otot jemari)*
 - [ ] **Project #3:** *(TBA)*
 
@@ -30,4 +35,5 @@ Project ini resmi dinobatkan sebagai **Project #1** dalam rangkaian **Program Pe
 
 1. Clone repository ini:
    ```bash
-   git clone [https://github.com/username-kamu/trello-clone.git](https://github.com/username-kamu/trello-clone.git)
+   git clone [https://github.com/username-kamu/medium-clone.git](https://github.com/username-kamu/medium-clone.git)
+   cd medium-clone
